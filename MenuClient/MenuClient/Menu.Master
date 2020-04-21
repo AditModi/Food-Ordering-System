@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Menu.master.cs" Inherits="MenuClient.Menu" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head runat="server">  
+    <title></title>  
+    <asp:ContentPlaceHolder ID="head" runat="server">  
+    </asp:ContentPlaceHolder>  
+    <style>  
+      body{width:100%; background-color:Silver;}  
+      .page-wrapper{width:700px; background-color:Orange; padding:0px; height:auto; overflow:hidden;}  
+      .header{height:50px; width:99%; padding:1%; background-color:darkmagenta; color:White; font-family:Segoe UI; font-size:30px;}  
+      .menu{height:30px; width:99%; padding:1%; background-color:White; color:White; font-family:Segoe UI; font-size:14px; clear:both; float:left; text-align:left;}  
+      .footer{height:30px; width:99%; padding:1%; background-color:Black; color:White; font-family:Segoe UI; font-size:12px; text-align:left; vertical-align:bottom; clear:both;}  
+      .button{width:110px; height:30px; border-style:none; background-color:Green; font-family:Verdana; font-size:15px; color:White;}  
+      .button:hover{background-color:Black;}  
+      .textBox{width:400px; background-color:White; border:1px Solid Navy; padding:5px; color:Black; font-family:Segoe UI; }  
+      .linkbutton{width:120px; padding:7px; background-color:dodgerblue;color:White; font-family:Verdana; font-size:16px; margin-right:1px; margin-top:2px; text-decoration:none;}  
+      .linkbutton:hover{background-color:Orange;}  
+    </style>  
+</head>  
+<body>  
+    <form id="form1" runat="server">  
+    <center>  
+    <div class="page-wrapper">  
+    <div class="header">  
+    CRUD Operation Using WCF Service  
+    </div>  
+    <div class="menu">  
+    <table style="float:left">  
+    <tr>  
+    <td><a href="AddNewItem.aspx" class="linkbutton" >Add New</a></td>  
+    <td><a href="UpdateItem.aspx" class="linkbutton" >Update</td>  
+    <td><a href="DeleteItem.aspx" class="linkbutton" >Delete</td>  
+    <td><a href="DisplayItems.aspx" class="linkbutton" >Display</td>  
+    </tr>  
+    </table>  
+    </div>  
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">  
+          
+        </asp:ContentPlaceHolder>  
+        <div class="footer">  
+        By   
+        </div>  
+    </div>  
+    </center>  
+    </form>  
+</body>  
+</html>

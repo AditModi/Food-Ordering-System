@@ -1,0 +1,13 @@
+C:\Users\joshi\source\repos\MenuService\MenuService\bin\Debug\MenuService.dll.config
+C:\Users\joshi\source\repos\MenuService\MenuService\bin\Debug\MenuService.dll
+C:\Users\joshi\source\repos\MenuService\MenuService\bin\Debug\MenuService.pdb
+C:\Users\joshi\source\repos\MenuService\MenuService\obj\Debug\MenuService.csprojAssemblyReference.cache
+C:\Users\joshi\source\repos\MenuService\MenuService\obj\Debug\MenuService.csproj.CoreCompileInputs.cache
+C:\Users\joshi\source\repos\MenuService\MenuService\obj\Debug\MenuService.dll
+C:\Users\joshi\source\repos\MenuService\MenuService\obj\Debug\MenuService.pdb
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\bin\Debug\MenuService.dll.config
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\bin\Debug\MenuService.dll
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\bin\Debug\MenuService.pdb
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\obj\Debug\MenuService.csprojResolveAssemblyReference.cache
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\obj\Debug\MenuService.dll
+D:\LABWORK-SEM6\assignments\MenuService\MenuService\obj\Debug\MenuService.pdb
