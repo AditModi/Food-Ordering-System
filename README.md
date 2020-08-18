@@ -1,4 +1,4 @@
-# Food-Ordering-Systemaaa
+# Food-Ordering-System
 
 CRUD operation for restaurant menu management using wcf services.
 
