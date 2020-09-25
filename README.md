@@ -7,8 +7,6 @@ https://drive.google.com/open?id=1YesHM1ysj9pwgjA2JT7iVbdaKeKWYs36
 
 
 
-
-
 this project was done by us as a part of term work for soc subject in our college.
 
 
